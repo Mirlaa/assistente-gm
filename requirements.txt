@@ -13,5 +13,4 @@ llama-index-postprocessor-cohere-rerank==0.2.1
 pydub==0.25.1
 ffmpeg-python
 librosa
-os
 numpy
